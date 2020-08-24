@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "chenchaofan",
-    version = "1.1.0",
+    version = "1.1.1",
     keywords = ("pip", "pathtool","timetool", "chenchaofan", "mage"),
     description = "time and path tool",
     long_description = "time and path tool",
